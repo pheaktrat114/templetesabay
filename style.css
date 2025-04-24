@@ -145,7 +145,7 @@ body {
 .title {
   width: 100px;
   height: 40px;
-  background-color: violet;
+  /* background-color: violet; */
   display: flex;
   justify-content: center;
   align-items: center;
